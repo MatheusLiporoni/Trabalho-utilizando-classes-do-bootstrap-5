@@ -1,0 +1,57 @@
+body{
+    background-image: url(pexels-photo-210182.jpeg);
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+
+
+
+section{
+    height: 350px;
+    width: 500px;
+    background-color: rgba(95, 98, 105, 0.411);
+    color: rgb(244, 232, 217);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    
+    
+    
+    
+}
+
+#input{
+    width: 450px;
+    margin-left: 35px;
+    margin-top: 20px;
+}
+#login{
+    margin-top: 10px;
+}
+
+#senha{
+    margin-top: 40px;
+}
+
+#butao{
+    background-color: rgb(204, 138, 15);
+    color: white;
+}
+#butao:hover{
+    text-decoration: underline;
+    color: rgb(85, 83, 83);
+}
+
+#title{
+    font-size: 60px;
+    color: #f8f4f4;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    background-color: rgba(95, 98, 105, 0.411);
+    border-radius: 20px;
+    padding: 10px;
+    
+}
